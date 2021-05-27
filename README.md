@@ -1,1 +1,1 @@
-# Memory-Minder-Game
+This is simple game to test the player's memory.
